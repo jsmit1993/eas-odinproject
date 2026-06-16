@@ -1,0 +1,13 @@
+.etch-a-sketch-div {
+    display: flexbox;
+    max-width: 960px;
+}
+
+.newBox {
+    background: black;
+    border: solid black 1px;
+    display: flexbox;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
